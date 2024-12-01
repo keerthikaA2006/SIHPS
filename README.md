@@ -71,16 +71,34 @@ Expected Benefits of the Platform
 ## Technology Stack
 
 
-Frontend:
+Frontend:HTML,JavaScript,React
 
-backend:Django,Flask,Spring Boot
+backend:Django,Express.js,Node.js
 
+Security: JWT,ModSecurity
 
-Security: 
+Hosting: GCP,Azure
 
-Hosting: 
-
-Payment Gateway: 
+Payment Gateway: PayPal,Stripe API,Razorpay API
 
 ## Dependencies
+
+
+-Framework: Vue.js (Alternative)(or Angular (Alternative)).
+
+-Programming Language: Django (Python Alternative) or Flask (Python Alternative).
+
+-Cloud Platform: Amazon Cognito,Google Cloud SDK or SDK.
+
+-CI/CD: Docker,SonarQube or GitHub Actions CI/CD Workflow.
+
+-AES encryption and decryption in Python applications.
+
+-Payment Gateways: PayPal Express Checkout SDK or Stripe Node.js SDK.
+
+-Estimated Total Cost:For a fully functional MVP (Minimum Viable Product) $25,000 - $50,000
+
+
+
+
 
