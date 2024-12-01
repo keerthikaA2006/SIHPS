@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:2/12/2024
+# Date:30.11.2024
 ## Register Number:24900898
 ## Name:KEERTHIKA A
 ## Problem Title
@@ -96,7 +96,7 @@ Payment Gateway: PayPal,Stripe API,Razorpay API
 
 -Payment Gateways: PayPal Express Checkout SDK or Stripe Node.js SDK.
 
--Estimated Total Cost:For a fully functional MVP (Minimum Viable Product) $25,000 - $50,000
+-Estimated Total Cost:For a fully functional MVP (Minimum Viable Product) $25,000 - $50,000.
 
 
 
