@@ -60,12 +60,27 @@ Expected Benefits of the Platform
 
 ## Proposed Solution / Architecture Diagram
 
+![Screenshot 2024-12-01 151258](https://github.com/user-attachments/assets/3079eb51-eb91-4590-ae42-7dfd2d05a3f3)
+
 
 ## Use Cases
+
+![ss](https://github.com/user-attachments/assets/9a4d3fe1-b47e-4438-9de1-8a9bf68c18b8)
 
 
 ## Technology Stack
 
+
+Frontend:
+
+backend:Django,Flask,Spring Boot
+
+
+Security: 
+
+Hosting: 
+
+Payment Gateway: 
 
 ## Dependencies
 
